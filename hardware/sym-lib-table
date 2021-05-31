@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name threechipplusparts)(type Legacy)(uri ${KIPRJMOD}/threechipplusparts.lib)(options "")(descr ""))
+)
